@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Ankita Debnath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://giphy.com/gifs/hpXdHPfFI5wTABdDx9](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitadebnath1&label=Profile%20views&color=0e75b6&style=flat" alt="ankitadebnath1" /> </p>
 
