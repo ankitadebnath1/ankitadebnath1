@@ -1,7 +1,7 @@
-[!MasterHead](https://www.google.com/search?q=animated+girl+coding+gif&sca_esv=80c860f779eb6e23&udm=2&biw=1536&bih=730&sxsrf=ADLYWILiF-yilJlgaTb0z8yieEMr4N-sbg%3A1721493429396&ei=teebZsnwF_fj1e8P6Nzi-AY&ved=0ahUKEwiJn97ihraHAxX3cfUHHWiuGG8Q4dUDCBA&uact=5&oq=animated+girl+coding+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGFuaW1hdGVkIGdpcmwgY29kaW5nIGdpZjIHEAAYgAQYGEixEVCnBFjXDHABeACQAQCYAcIBoAGmB6oBAzAuNbgBA8gBAPgBAZgCAqACzQHCAgUQABiABMICBhAAGAgYHpgDAIgGAZIHAzEuMaAHiAI&sclient=gws-wiz-serp#vhid=hG9Wqf67TP1hgM&vssid=mosaic)
+
 <h1 align="center">Hi 👋, I'm Ankita Debnath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+girl+coding+gif&sca_esv=80c860f779eb6e23&udm=2&biw=1536&bih=730&sxsrf=ADLYWILiF-yilJlgaTb0z8yieEMr4N-sbg%3A1721493429396&ei=teebZsnwF_fj1e8P6Nzi-AY&ved=0ahUKEwiJn97ihraHAxX3cfUHHWiuGG8Q4dUDCBA&uact=5&oq=animated+girl+coding+gif&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGFuaW1hdGVkIGdpcmwgY29kaW5nIGdpZjIHEAAYgAQYGEixEVCnBFjXDHABeACQAQCYAcIBoAGmB6oBAzAuNbgBA8gBAPgBAZgCAqACzQHCAgUQABiABMICBhAAGAgYHpgDAIgGAZIHAzEuMaAHiAI&sclient=gws-wiz-serp#vhid=hG9Wqf67TP1hgM&vssid=mosaic">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/hpXdHPfFI5wTABdDx9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitadebnath1&label=Profile%20views&color=0e75b6&style=flat" alt="ankitadebnath1" /> </p>
 
